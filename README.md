@@ -1,2 +1,2 @@
 # odin-recipes
-the odin project odin recipes
+https://spareacc100.github.io/odin-recipes/
